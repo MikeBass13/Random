@@ -10,3 +10,5 @@ Commands](https://github.com/SharePoint/PnP-PowerShell).
 
 The script itself was written quickly and uses passwords stored in plain text,
 so it's not meant to be a production ready script.
+
+The [Zip](./ArticleSource.zip) file above contains all of the other files in this folder. 
